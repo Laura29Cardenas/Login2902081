@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Login2902081</string>
+    <string name="cualquiera">Bienvenido!</string>
+    <string name="create_count">Crear cuenta</string>
+    <string name="create_name">Ingrese su nombre</string>
+    <string name="create_last_name">Ingrese su apellido</string>
+    <string name="create_email">Ingrese su correo</string>
 </resources>
